@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @baicaizhale
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Command
-- 💞️ Afdian: afdian.net/@baicaizhale
-- 📫 E-mail: 2651557041@qq.com
+# 👋 你好，我是 Yan Cai！
 
-<!---
-baicaizhale/baicaizhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**座右铭：** *Anything is possible.*
+
+## 联系我
+
+- 💌 **邮箱：** 2651557041@qq.com
+- 💡 **爱发电：** [afdian.net/@baicaizhale](https://afdian.net/@baicaizhale)
