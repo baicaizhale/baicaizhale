@@ -4,5 +4,5 @@
 
 ## 联系我
 
-- 💌 **邮箱：** 2651557041@qq.com
+- 💌 **邮箱：** baicaizhale@qq.com
 - 💡 **爱发电：** [afdian.net/@baicaizhale](https://afdian.net/@baicaizhale)
